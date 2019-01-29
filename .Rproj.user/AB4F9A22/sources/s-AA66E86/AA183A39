@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548736096670.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AA183A39",
+    "lastKnownWriteTime" : 1548737084,
+    "last_content_update" : 1548737084693,
+    "path" : "~/r-projects/brettrics-com/content/post/2019-01-28-amazon-athena-the-database-goddess.Rmd",
+    "project_path" : "content/post/2019-01-28-amazon-athena-the-database-goddess.Rmd",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

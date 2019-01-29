@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amazon Athena - The Database Goddess</title>
+      <link>/post/amazon-athena-the-database-goddess/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/amazon-athena-the-database-goddess/</guid>
+      <description>Let see what this does go!</description>
+    </item>
+    
+    <item>
+      <title>A Few Helpful R Packages</title>
+      <link>/post/a-few-helpful-r-packages/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-few-helpful-r-packages/</guid>
+      <description>There are a few packages in R that I wish I was exposed to earlier, if I had an understanding of these packages earlier I would have been on Stack Overflow less. These are some of the most common packages that I use.
+ tidyverse #hadlyverse dplyr #grouping tidyr #reshaping ggplot2 #plotting magrittr #pipefowarding lubridate #dates stringr #strings tidytext #moreStrings This list will continue to grow as I think of more packages.</description>
+    </item>
+    
+  </channel>
+</rss>

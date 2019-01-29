@@ -1,0 +1,142 @@
+[KBretts-MacBook-Pro:brettrics-com brett$ git remote add origin https://github.com/brettkobo/brettrics-com.git
+
+
+Agreeing to the Xcode/iOS license requires admin privileges, please run “sudo xcodebuild -license” and then retry this command.
+
+
+]0;~/r-projects/brettrics-comBretts-MacBook-Pro:brettrics-com brett$ sudo xcodebuild -license
+Password:
+
+
+You have not agreed to the Xcode license agreements. You must agree to both license agreements below in order to use Xcode.
+
+Hit the Enter key to view the license agreements at '/Applications/Xcode.app/Contents/Resources/English.lproj/License.rtf'
+
+[?1h=Apple Inc.
+
+Xcode and Apple SDKs Agreement
+
+PLEASE SCROLL DOWN AND READ ALL OF THE FOLLOWING TERMS AND CONDITIONS CAREFULLY BEFORE USING THE APPLE SOFTWARE OR APPLE SERVICES.  THIS IS A LEGAL AGRE EMENT BETWEEN YOU AND APPLE.  IF YOU AGREE TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS, CLICK THE “AGREE” BUTTON.  BY CLICKING “AGREE” OR BY DOWNLOAD ING, USING OR COPYING ANY PART OF THIS APPLE SOFTWARE OR USING ANY PART OF THE APPLE SERVICES, YOU ARE AGREEING ON YOUR OWN BEHALF AND/OR ON BEHALF OF Y OUR COMPANY OR ORGANIZATION TO THE TERMS AND CONDITIONS STATED BELOW.  IF YOU DO NOT OR CANNOT AGREE TO THE TERMS OF THIS AGREEMENT, YOU CANNOT USE THIS  APPLE SOFTWARE OR THE APPLE SERVICES.  DO NOT DOWNLOAD OR USE THIS APPLE SOFTWARE OR APPLE SERVICES IN THAT CASE.
+
+1.      Definitions
+Whenever capitalized in this Agreement:
+
+“Agreement” means this Xcode and Apple SDKs Agreement.
+
+“Apple” means Apple Inc., a California corporation with its principal place of business at One Infinite Loop, Cupertino, California 95014, U.S.A.
+
+“Apple Developer Program License Agreement” means a separate agreement that may be entered into between You and Apple regarding the development and subm ission of Applications to the App Store for approval and digital signing by Apple, development of libraries for iOS, watchOS, and/or tvOS, and the use o [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kf Apple services such as the Apple Push Notification Service, In-App Purchase, and iCloud, among other things.
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“Apple Maps Service” means the mapping platform and Map Data provided by Apple via the MapKit API (which is the documented API that enables You to add m [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kapping features or functionality to Applications).  
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“Apple Services” or “Services” means the developer services that Apple provides to You under this Agreement solely for use with Your Applications and no [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kt for use by You as an end-user (e.g., Game Center, Apple Maps Service, any Apple-certificate issuance services, etc.), including any Updates thereto (i [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kf any) that may be provided to You by Apple.  
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“Apple Software” means the Xcode Developer Tools and the Apple SDKs, including any Updates thereto (if any) that may be provided to You by Apple.
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“Apple SDKs” means the macOS SDK, and the Apple-proprietary Software Development Kits (SDKs) provided hereunder, including but not limited to header fil [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kes, APIs, libraries, simulators, and software (source code and object code) labeled as part of the iOS SDK, watchOS SDK and/or tvOS SDK and included in  [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kthe Xcode Developer Tools package for purposes of targeting Apple-branded products running iOS, watchOS, or tvOS.
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K 
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“Application” means a software program (including extensions and media that are enclosed in a single software bundle) developed by You hereunder, for us [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Ke under Your own name, trademark or brand, and specifically for use on Apple-branded products running macOS, iOS, watchOS, tvOS, as applicable, includin [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kg new releases and new versions of such software program, but excluding libraries for iOS, watchOS, or tvOS applications.  
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[KFor clarity, the term Application as used in this Agreement excludes libraries that are for use in Applications designed for iOS, watchOS, or tvOS.  Suc [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kh libraries can be developed by You only under the terms of the Apple Developer Program License Agreement.  
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“Authorized Developers” means Your employees and contractors, members of Your organization or, if You are an educational institution, Your faculty, staf [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kf and students, who: (a) have a demonstrable need to know or use the Apple Software or Apple Services in order to develop and test Applications, and (b) [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K to the extent they will access Apple Confidential Information, have written and binding agreements with You that prohibit the unauthorized use and disc [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Klosure of such confidential information.
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“Authorized Test Units” means Apple-branded hardware units owned or controlled by You that have been designated by You for Your own testing and developm [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kent purposes, and, if You permit, Apple-branded hardware units owned or controlled by Your Authorized Developers so long as such units are used for test [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[King and development purposes on Your behalf and only as permitted hereunder. 
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“Documentation” means the technical or other specifications or documentation that Apple may provide to You for use in connection with the Apple Software [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K, Apple Services, Apple certificates, or as otherwise provided hereunder. 
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“FOSS” (Free and Open Source Software) means any software that is subject to terms that, as a condition of use, copying, modification or redistribution, [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K require such software and/or derivative works thereof to be disclosed or distributed in source code form, to be licensed for the purpose of making deri [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kvative works, or to be redistributed free of charge, including without limitation software distributed under the GNU General Public License or GNU Lesse [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kr/Library GPL.
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“macOS SDK” means the Apple-proprietary Software Development Kits (SDKs) provided hereunder, including but not limited to header files, APIs, libraries, [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K simulators, and software (source code and object code) labeled as part of the macOS SDK and included in the Xcode Developer Tools package for purposes  [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kof targeting Apple-branded products running macOS.
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K 
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“Map Data” means any content, data or information provided through the Apple Maps Service including, but not limited to, imagery, terrain data, latitude [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K and longitude coordinates, transit data, points of interest and traffic data. 
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“Program Requirements” mean the technical, human interface, design, product category, security, performance, and other criteria and requirements for App [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Klications specified by Apple in the Apple Developer Program License Agreement.  
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“Provisioning Profiles” means the time-limited files (including applicable entitlements, certificates or other identifiers) that may be provided by Appl [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Ke for use by You in connection with Your Application development and testing.
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“Updates” means bug fixes, updates, upgrades, modifications, enhancements and supplements to the Apple Software or Apple Services, and any new releases  [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kor versions thereof.
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“Xcode Developer Tools” means the Apple-proprietary development platform, including but not limited to software tools, compilers, sample code, Documenta [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Ktion, programming languages, and overall design package provided by Apple hereunder, excluding the Apple SDKs.
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K“You” or “Your” means the person(s) or entity using the Apple Software or Services or otherwise exercising rights under this Agreement.  If You are ente [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kring into this Agreement on behalf of Your company, organization, educational institution, or an agency, instrumentality, or department of the federal g [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kovernment, “You” or “Your” refers to your company, organization, educational institution or agency, instrumentality, or department of the federal govern [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kment as well.
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K2.      Internal Use License and Restrictions
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K2.1     Authority to Enter into Agreements 
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[KYou certify to Apple that You have the right and authority to enter into this Agreement on Your own behalf, or if You are entering into this Agreement o [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kn behalf of Your company, organization, educational institution, or agency, instrumentality, or department of the federal government, that You have the  [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kright and authority to legally bind such entity or organization to the terms and obligations of this Agreement.  Further, You agree to comply with the t [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kerms of and fulfill Your obligations under this Agreement, including obtaining any required consents for Your Authorized Developers’ use of the Apple So [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kftware and Services (e.g., as part of Your Applications), and You agree to monitor and be fully responsible for all such use by Your Authorized Develope [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Krs and their compliance with the terms of this Agreement.  You acknowledge that You will be solely responsible for all costs, expenses, losses and liabi [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Klities incurred, and activities undertaken by You and Your Authorized Developers in connection with the Apple Software and Apple Services, Your Applicat [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kions and Your related development and limited distribution efforts.  
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K2.2     Permitted Uses and Restrictions
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[KSubject to the terms and conditions of this Agreement, Apple hereby grants You during the Term, a limited, non-exclusive, personal, revocable, non-subli [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kcensable, non-transferable, and internal use license to:
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[KA.      Install a reasonable number of copies of the Apple Software on Apple-branded computers that are owned or controlled by You to be used internally [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K by You or Your Authorized Developers only as follows:
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K(i)     You may use the Xcode Developer Tools to test and develop application and other software; 
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K(ii)    You may use the macOS SDKs to test and develop application and other software;
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K(iii)   You may use the Apple SDKs (excluding the macOS SDK) solely to test and develop Applications that are specifically for use with the applicable A [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[Kpple-branded products for which the SDK is targeted, unless otherwise permitted by Apple in writing; and
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K(iv)    You may use the Apple Services solely to test and develop Applications that are specifically for use on Apple-branded products, unless otherwise [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K permitted by Apple in writing.
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[KExcept as otherwise expressly set forth in Section 2.2.B., You may not distribute any Applications developed using the Apple SDKs (excluding the macOS S [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[KDK) absent entering into a separate written agreement with Apple. 
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K
+[7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[KB.      Use Provisioning Profiles to install Your Applications onto a reasonable, limited number of Authorized Test Units solely for use by You and/or Y [7mSoftware License Agreements Press 'space' for more, or 'q' to quit[27m[K[K[?1l>
+
+By typing 'agree' you are agreeing to the terms of the software license agreements. Type 'print' to print them or anything else to cancel, [agree, print, cancel] agree
+
+You can view the license agreements in Xcode's About Box, or at /Applications/Xcode.app/Contents/Resources/English.lproj/License.rtf
+
+]0;~/r-projects/brettrics-comBretts-MacBook-Pro:brettrics-com brett$ ckear
+bash: ckear: command not found
+]0;~/r-projects/brettrics-comBretts-MacBook-Pro:brettrics-com brett$ ckear[K[K[K[Klear
+[H[2J]0;~/r-projects/brettrics-comBretts-MacBook-Pro:brettrics-com brett$ sudo xcodebuild -licenseclear[Kkearsudo xcodebuild -licensegit remote add origin https://github.com/brettkobo/brettrics-com.git
+fatal: not a git repository (or any of the parent directories): .git
+]0;~/r-projects/brettrics-comBretts-MacBook-Pro:brettrics-com brett$ git init
+Initialized empty Git repository in /Users/brett/r-projects/brettrics-com/.git/
+]0;~/r-projects/brettrics-comBretts-MacBook-Pro:brettrics-com brett$ echo "# brettrics-com" >> README.md
+]0;~/r-projects/brettrics-comBretts-MacBook-Pro:brettrics-com brett$ git commit -m "first commit"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"d"a"t"[1P"[1P"[1P"[K[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"a"d"d" "[C[Kall[K[K[K-a
+error: unknown switch `a'
+usage: git add [<options>] [--] <pathspec>...
+
+    -n, --dry-run         dry run
+    -v, --verbose         be verbose
+
+    -i, --interactive     interactive picking
+    -p, --patch           select hunks interactively
+    -e, --edit            edit current diff and apply
+    -f, --force           allow adding otherwise ignored files
+    -u, --update          update tracked files
+    --renormalize         renormalize EOL of tracked files (implies -u)
+    -N, --intent-to-add   record only the fact that the path will be added later
+    -A, --all             add changes from all tracked and untracked files
+    --ignore-removal      ignore paths removed in the working tree (same as --no-all)
+    --refresh             don't add, only refresh the index
+    --ignore-errors       just skip files which cannot be added because of errors
+    --ignore-missing      check if - even missing - files are ignored in dry run
+    --chmod <(+/-)x>      override the executable bit of the listed files
+
+]0;~/r-projects/brettrics-comBretts-MacBook-Pro:brettrics-com brett$ clear
+[H[2J]0;~/r-projects/brettrics-comBretts-MacBook-Pro:brettrics-com brett$ git all a[K[K[K[Kdd all
+fatal: pathspec 'all' did not match any files
+]0;~/r-projects/brettrics-comBretts-MacBook-Pro:brettrics-com brett$ git add -a
+error: unknown switch `a'
+usage: git add [<options>] [--] <pathspec>...
+
+    -n, --dry-run         dry run
+    -v, --verbose         be verbose
+
+    -i, --interactive     interactive picking
+    -p, --patch           select hunks interactively
+    -e, --edit            edit current diff and apply
+    -f, --force           allow adding otherwise ignored files
+    -u, --update          update tracked files
+    --renormalize         renormalize EOL of tracked files (implies -u)
+    -N, --intent-to-add   record only the fact that the path will be added later
+    -A, --all             add changes from all tracked and untracked files
+    --ignore-removal      ignore paths removed in the working tree (same as --no-all)
+    --refresh             don't add, only refresh the index
+    --ignore-errors       just skip files which cannot be added because of errors
+    --ignore-missing      check if - even missing - files are ignored in dry run
+    --chmod <(+/-)x>      override the executable bit of the listed files
+
+]0;~/r-projects/brettrics-comBretts-MacBook-Pro:brettrics-com brett$ go[Kit add --all[K[K[KA[Kall

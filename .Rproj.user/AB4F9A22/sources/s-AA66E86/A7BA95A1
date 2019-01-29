@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548735574015.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A7BA95A1",
+    "lastKnownWriteTime" : 1548735571,
+    "last_content_update" : 1548735571,
+    "path" : "~/r-projects/brettrics-com/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

@@ -1,0 +1,9 @@
+{
+    "path" : "~/r-projects/brettrics-com/public/post",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

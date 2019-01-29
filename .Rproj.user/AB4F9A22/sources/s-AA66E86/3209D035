@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548736863868.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3209D035",
+    "lastKnownWriteTime" : 1548736935,
+    "last_content_update" : 1548736935632,
+    "path" : "~/r-projects/brettrics-com/content/post/2017-05-18-a-few-helpful-r-packages.Rmd",
+    "project_path" : "content/post/2017-05-18-a-few-helpful-r-packages.Rmd",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
